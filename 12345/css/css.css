@@ -1,0 +1,54 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+
+#welcome{
+        background-color: pink;
+        height: 78%;
+        padding-top: 10px;
+        padding-bottom: 140px;
+    text-align: center;
+    
+    
+}
+
+#about{
+    background-color: greenyellow;
+        height: 90%;
+         padding-top: 150px;
+    text-align: center;
+}
+#whatwedo{
+    background-color: red;
+        height: 90%;
+         padding-top: 150px;
+    text-align: center;}
+
+#contact{
+    background-color: aqua;
+        height: 90%;
+         padding-top: 150px;
+    text-align: center;
+}
+
+#meny{
+    height: 12%;
+    background-color: gray;
+    text-align: center;
+}
+
+#logo{
+float: left
+    
+}
+
+#Gzccilogo{
+    font-size: 400%;
+}
+
+

@@ -1,0 +1,63 @@
+#welcome-meny{
+    float: left;
+    color:white;
+    margin-top: 50px;
+    margin-left: 21%;
+    font-size: 200%;
+}
+#welcome-meny:hover{
+
+    color:black;
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+#about-meny{
+    float: left; 
+    color:white;
+    margin-top: 50px;
+    margin-left: 15%;
+    font-size: 200%;
+}
+
+#about-meny:hover{
+color:black;
+    cursor: pointer;
+    background-color: lightgray;
+}
+#contact-meny{
+    float: left; 
+    color:white;
+    margin-top: 50px;
+    margin-left: 15%;
+    font-size: 200%;
+    
+}
+#contact-meny:hover{
+color:black;
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+#login{
+    float: right; 
+    color:white;
+    margin-top: 35px;
+    margin-right: 50px;
+    font-size: 200%;
+    padding: 10px;
+}
+
+#login:hover{
+color:black;
+    cursor: pointer;
+    
+    background-color: lightgray;
+}
+    
+div.ex1 {
+  background-color: lightblue;
+  width: 60%;
+  height: 50%;
+  overflow: scroll;
+}
